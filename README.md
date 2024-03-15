@@ -16,17 +16,17 @@ This project was conceived and developed collaboratively with the aim of providi
 ## Screenshots
 Here are some screenshots demonstrating the working of the website:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](ScreenShots/image1.png)
 *Caption: Main interface displaying the graph with nodes and edges.*
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](ScreenShots/image2.png)
 *Caption:Hover over the Node and Click on the Start Button.*
 
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 3](ScreenShots/image3.png)
 *Caption:Hover over the End Node and Click on the End Button*
 
 
-![Screenshot 4](screenshots/screenshot3.png)
+![Screenshot 4](ScreenShots/image4.png)
 *Caption:Dsiplay the shortest Path and Shortest Distance.*
 
 
