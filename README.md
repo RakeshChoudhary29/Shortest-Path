@@ -1,7 +1,8 @@
-# Shortest-Path
-[View Web Page](https://rakeshchoudhary29.github.io/Shortest-Path/)
 
-# Shortest Path Algorithm Project
+
+
+# Shortest Path Algorithm Project       
+[Web Page Link ](https://rakeshchoudhary29.github.io/Shortest-Path/)<br/>
 
 Welcome to our project focused on implementing Dijkstra’s Algorithm to calculate the shortest path between selected nodes within a graph.
 
@@ -15,19 +16,28 @@ This project was conceived and developed collaboratively with the aim of providi
 
 ## Screenshots
 Here are some screenshots demonstrating the working of the website:
-
+<br/><br/>
+### Main interface displaying the graph with nodes and edges.
 ![Screenshot 1](ScreenShots/image1.png)
-*Caption: Main interface displaying the graph with nodes and edges.*
 
+
+<br/><br/>
+### Hover over the Node and Click on the Start Button.
 ![Screenshot 2](ScreenShots/image2.png)
-*Caption:Hover over the Node and Click on the Start Button.*
 
+
+<br/><br/>
+### Hover over the End Node and Click on the End Button
 ![Screenshot 3](ScreenShots/image3.png)
-*Caption:Hover over the End Node and Click on the End Button*
 
 
+
+<br/><br/>
+### Dsiplay the shortest Path and Shortest Distance
 ![Screenshot 4](ScreenShots/image4.png)
-*Caption:Dsiplay the shortest Path and Shortest Distance.*
+
+
+
 
 
 
