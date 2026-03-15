@@ -111,7 +111,7 @@
   border-width: 30%;
   border-color: bisque;
   box-shadow: 4% 4% bisque;
-
+  cursor: pointer;
 }
 
 .Station:hover {
